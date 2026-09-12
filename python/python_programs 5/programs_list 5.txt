@@ -1,0 +1,21 @@
+1.	Take a number. First check whether it is positive. If it is positive, check whether it is even or odd. Otherwise, display "Number is Zero or Negative".
+
+2.	Take a username and password. First check whether the username is "admin". If correct, check whether the password is "python123". Display an appropriate message for every result.
+
+3.	Take a number. First check whether it is divisible by 2. If yes, check whether it is also divisible by 5. Display an appropriate message for every result.
+
+4.	Take a number. First check whether it is greater than or equal to 1. If yes, check whether it is less than or equal to 100. Display an appropriate message.
+
+5.	A customer gets free delivery if the order amount is at least £50. If eligible for free delivery, check whether the amount is at least £100 for a discount. Display an appropriate message for every case.
+
+6.	 An employee is eligible for a service bonus if they have worked for at least 5 years. If eligible, check whether their performance rating is at least 8 for an additional performance bonus.
+
+7.	Take the user's PIN. If the PIN is correct, check whether the withdrawal amount is within the available balance. Display an appropriate message for every result.
+
+8.	A student must score at least 60 marks to apply for admission. If the marks requirement is met, check whether the student passed the entrance exam.
+
+9.	A customer must earn at least £2,000 per month to apply for a loan. If the salary requirement is met, check whether their credit score is at least 700.
+
+10.	A customer can place an order if the product is available. If available, check whether the customer has sufficient balance to pay for the product.
+
+11.	A student can join an advanced Python course only after completing the basic Python course. If the basic course is completed, check whether the student passed the final assessment.

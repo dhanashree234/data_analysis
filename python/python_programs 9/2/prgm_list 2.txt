@@ -1,0 +1,11 @@
+1.Handle ValueError and ZeroDivisionError separately.
+
+2.Open a file safely using try-except.
+
+3.Create a simple calculator with exception handling.
+
+4.Accept marks (0–100). Raise an exception if invalid.
+
+5.ATM withdrawal with insufficient balance check.
+
+6.Login system using raise for invalid credentials.
